@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\Intellector\bin\Release\Intellector.exe.config
+C:\Users\Asus\Desktop\Intellector\bin\Release\Intellector.exe
+C:\Users\Asus\Desktop\Intellector\bin\Release\Intellector.pdb
+C:\Users\Asus\Desktop\Intellector\obj\Release\Intellector.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Intellector\obj\Release\Intellector.FrmMain.resources
+C:\Users\Asus\Desktop\Intellector\obj\Release\Intellector.Properties.Resources.resources
+C:\Users\Asus\Desktop\Intellector\obj\Release\Intellector.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Intellector\obj\Release\Intellector.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Intellector\obj\Release\Intellector.exe
+C:\Users\Asus\Desktop\Intellector\obj\Release\Intellector.pdb
+C:\Users\Asus\Desktop\Intellector\obj\Release\Intellector.FrmChoose.resources
